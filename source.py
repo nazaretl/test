@@ -1,5 +1,3 @@
-# This is the experimental source code file
-a = 1 + 1.25
-b = -10
+# This is the source code file
+a = 1 + 2.5
 print(a)
-print(b)
